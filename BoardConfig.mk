@@ -123,7 +123,7 @@ BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
 ## TWRP Configuration ##
 
 # Common
-TW_DEVICE_VERSION := Rissu_A04e-v1
+TW_DEVICE_VERSION := Citty_a04e
 TW_THEME := portrait_hdpi
 TW_EXTRA_LANGUAGES := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
