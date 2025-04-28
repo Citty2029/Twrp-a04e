@@ -138,6 +138,7 @@ TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel/brightness"
 TW_FRAMERATE := 60
 TW_Y_OFFSET := 50
 TW_H_OFFSET := -50
+TW_MAX_BRIGHTNESS := 100
 
 # Samsung
 TW_HAS_DOWNLOAD_MODE := true
